@@ -1,0 +1,13 @@
+div{
+    background-color: rgba(0, 0, 0, 0.726);
+  }
+
+h1 {
+    width: 50%;
+    margin: 0 auto;
+    color: aliceblue;
+  }
+
+table{
+    margin: 0 auto !important;
+}

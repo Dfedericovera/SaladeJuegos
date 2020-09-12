@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+/* @import "~bootstrap-toggle/css/bootstrap-toggle.css"; */
+
+/*,
+              "../node_modules/bootstrap/dist/css/bootstrap.css",
+              "../node_modules/font-awesome/css/font-awesome.css" lo importe y lo saque de angular.json styles*/
+body {
+/* The image used */
+background-image: url(./assets/imagenes/backgrond.jpg);
+/* Full height */
+height: 100%; 
+/* Center and scale the image nicely */
+background-position: center;
+background-repeat: repeat;
+background-size: cover;
+}
+body, html {
+    height: 100%;
+    margin: 0;
+  }
